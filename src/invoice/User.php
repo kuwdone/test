@@ -6,6 +6,6 @@ class User
 {
     public function getcos()
     {
-        // TODO: write logic here
+        return 'asd';
     }
 }
